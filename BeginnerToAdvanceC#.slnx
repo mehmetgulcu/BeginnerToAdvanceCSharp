@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="BasicsOfCsharp/BasicsOfCsharp.csproj" />
+</Solution>
