@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="_6_IO\output.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Include="_6_IO\output.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
 </Project>
